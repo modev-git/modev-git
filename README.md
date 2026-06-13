@@ -94,8 +94,8 @@ Developed the automated structural modification detection components of an enter
 | Dimension | Specification / Metric |
 | :--- | :--- |
 | **Stack** | Python, Pandas, BeautifulSoup, XGBoost, Docker, FastAPI  |
-| **Scale** | Distributed indexing and normalization across ~26,000 real estate properties  |
-| **Performance** | Real-time inferencing with price values exposed over standardized JSON endpoints  |
+| **Scale** | Scraped, cleaned, and processed ~26,000 Belgian property listings  |
+| **Performance** | Predictive machine learning model exposed via a local API endpoint  |
 | **Security** | Isolated containerized application layer via Docker deployment parameters  |
 | **Impact** | Automates estimation matrices, saving field operators 5+ hours of manual analysis per asset  |
 | **Repository** | `https://github.com/mohamed-toukane/immo-eliza-predictor`  |
@@ -111,11 +111,11 @@ Engineered a complete extraction, transformation, and load workflow to ingest an
 #### System Performance Matrix
 | Dimension | Specification / Metric |
 | :--- | :--- |
-| **Stack** | Python, SQL, SQLite, Pandas, Relational Schemas  |
-| **Scale** | Parsing, cleaning, and validating 50,000+ customer records spanning 10+ geographic target layers  |
-| **Performance** | Database normalizations reducing payload redundancy across thousands of record profiles  |
-| **Security** | Parameterized SQL query layers safeguarding processing steps from runtime data injection anomalies  |
-| **Impact** | Re-engineered systemic architecture flaws to secure precise reporting data accuracy  |
+| **Stack** | Python, SQL, SQLite, Pandas,  |
+| **Scale** | Processed 50,000+ wine ratings across 10+ countries  |
+| **Performance** | Data extraction and aggregation using Pandas dataframes  |
+| **Security** | Secured SQL statements against injections using parameterized queries  |
+| **Impact** | Discovered an architectural many-to-many flaw in the database schema |
 | **Repository** | `https://github.com/mohamed-toukane/vivino-data-pipeline`  |
 
 #### Technical Breakdown
@@ -204,7 +204,7 @@ Constructed an end-to-end analytical data mapping layout processing a complex in
 
 ---
 
-## Footer Section
+## Personal Mindset
 
 <div align="center">
   <p align="center">
