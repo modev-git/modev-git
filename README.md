@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <a href="www.linkedin.com/in/mohamed-toukane-031617201">
+  <a href="https://www.linkedin.com/in/mohamed-toukane-031617201/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mohamed.toukane@hotmail.it">
