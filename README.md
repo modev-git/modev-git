@@ -24,7 +24,7 @@
 
 ---
 
-## 1. About Section
+## About Section
 
 ### Professional Biography
 I am an analytical Data Intelligence Engineer bridging the gap between sophisticated technical pipelines and business operations. Transitioning from operations administration into data architecture, I specialize in engineering automated data extraction infrastructure, parsing complex schemas, and embedding large language models into enterprise workflows. My background in linguistics and translation shapes a rigorous approach to data quality, governance, and structural validation. Equipped with native/fluent command across 6 regulatory and commercial languages (English C2, French C2, Italian Native, Arabic Native, Spanish C1, Dutch B2), I execute cross-functional system logic and communicate technical architectures effectively to diverse stakeholder layers.
@@ -42,7 +42,7 @@ My development architecture emphasizes production-ready scalability, prompt opti
 
 ---
 
-## 2. Tech Stack Section
+## Tech Stack Section
 
 ### Core Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
@@ -55,7 +55,7 @@ My development architecture emphasizes production-ready scalability, prompt opti
 
 ---
 
-## 3. AI / ML Expertise Section
+## AI / ML Expertise Section
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
@@ -66,7 +66,7 @@ My development architecture emphasizes production-ready scalability, prompt opti
 
 ---
 
-## 4. Featured Projects Section
+## Featured Projects Section
 
 <details>
 <summary><b>🤖 Bank Market Watcher Agent — Automated Intelligence Pipeline</b></summary>
@@ -124,7 +124,7 @@ Constructed an end-to-end analytical data mapping layout processing a complex in
 
 ---
 
-## 6. Experience Section
+## Experience Section
 
 ### Technical Administrative Assistant | Infrabel
 *02/2025 – 07/2025* 
@@ -178,7 +178,7 @@ Constructed an end-to-end analytical data mapping layout processing a complex in
 ---
 --> 
 
-## 14. Current Focus Section
+## Current Focus Section
 
 ### Target Learning Paths
 <img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals%20(AI--900)-7F287D?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure AI Fundamentals Track" /> <img src="https://img.shields.io/badge/Microsoft-Power%20Platform%20(PL--900)-5E249F?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Platform Track" />
@@ -188,7 +188,7 @@ Constructed an end-to-end analytical data mapping layout processing a complex in
 
 ---
 
-## 15. Connect Section
+## Connect Section
 
 <div align="center">
   <a href="mailto:mohamed.toukane@hotmail.it">
@@ -204,14 +204,10 @@ Constructed an end-to-end analytical data mapping layout processing a complex in
 
 ---
 
-## 16. Footer Section
+## Footer Section
 
 <div align="center">
   <p align="center">
     <b>"SUCCESS IS NOT FINAL, FAILURE IS NOT FATAL, IT IS THE COURAGE TO CONTINUE THAT COUNTS."</b>
   </p>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/type=wave&color=gradient&customColorList=110022,330066,4B0082,6A0DAD&height=120&section=footer" alt="Footer Banner" />
 </div>
