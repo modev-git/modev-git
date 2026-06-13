@@ -194,10 +194,10 @@ Constructed an end-to-end analytical data mapping layout processing a complex in
   <a href="mailto:mohamed.toukane@hotmail.it">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Connect" />
   </a>
-  <a href="https://linkedin.com/in/mohamed-toukane">
+  <a href="https://www.linkedin.com/in/mohamed-toukane-031617201/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect" />
   </a>
-  <a href="https://github.com/mohamed-toukane">
+  <a href="https://github.com/modev-git">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Connect" />
   </a>
 </div>
@@ -207,10 +207,8 @@ Constructed an end-to-end analytical data mapping layout processing a complex in
 ## 16. Footer Section
 
 <div align="center">
-  <p>
-    <a href="https://github.com/mohamed-toukane">
-      <img src="https://text-to-image-api.vercel.app/api?text=SUCCESS%20IS%20NOT%20FINAL,%20FAILURE%20IS%20NOT%20FATAL,%20IT%20IS%20THE%20COURAGE%20TO%20CONTINUE%20THAT%20COUNTS.&bg=14141400&color=A965FF&glow=00000000&glowRadius=0&fontSize=16&fontFamily=Fira+Code" alt="Glow Quote" />
-    </a>
+  <p align="center">
+    <b>"SUCCESS IS NOT FINAL, FAILURE IS NOT FATAL, IT IS THE COURAGE TO CONTINUE THAT COUNTS."</b>
   </p>
 </div>
 
