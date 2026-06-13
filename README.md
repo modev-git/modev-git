@@ -80,7 +80,7 @@ My development architecture emphasizes production-ready scalability, prompt opti
 | **Performance** | Automated diff engine targeting precise data modifications instantly  |
 | **Security** | Secure prompt design parameters protecting model interaction inputs  |
 | **Impact** | Eliminates manual research loops, saving product teams 10+ hours per week  |
-| **Repository** | `https://github.com/mohamed-toukane/bank-market-watcher`  |
+| **Repository** | Private repository due to non-disclosure agreements with enterprise partner  |
 
 #### Technical Breakdown
 Developed the automated structural modification detection components of an enterprise-grade tracking pipeline. The engine extracts raw HTML patterns from dynamic target targets using Playwright and processes variations through DeepDiff. Integrated localized prompt routing using GPT-4o-mini to programmatically categorize, tag, and summarize textual modifications before transmitting immediate security and competitive updates across the Resend API layer.
@@ -98,28 +98,28 @@ Developed the automated structural modification detection components of an enter
 | **Performance** | Predictive machine learning model exposed via a local API endpoint  |
 | **Security** | Isolated containerized application layer via Docker deployment parameters  |
 | **Impact** | Automates estimation matrices, saving field operators 5+ hours of manual analysis per asset  |
-| **Repository** | `https://github.com/mohamed-toukane/immo-eliza-predictor`  |
+| **Repository** | `https://github.com/modev-git/immo-eliza`  |
 
 #### Technical Breakdown
 Engineered a complete extraction, transformation, and load workflow to ingest and format raw real estate listings across national properties. Built an array of preprocessing steps to strip human calculation error and normalize incoming arrays. Optimized an XGBoost regression configuration to output objective evaluations, serving the model predictions via an accessible, performant FastAPI system.
 </details>
 
 <details>
-<summary><b>🍷 Vivino Market Analysis — Data Architecture & Optimization Engine</b></summary>
+<summary><b> Industrial Safety PPE Detection System | Real-Time Computer Vision Pipeline</b></summary>
 <br>
 
 #### System Performance Matrix
 | Dimension | Specification / Metric |
 | :--- | :--- |
-| **Stack** | Python, SQL, SQLite, Pandas,  |
-| **Scale** | Processed 50,000+ wine ratings across 10+ countries  |
-| **Performance** | Data extraction and aggregation using Pandas dataframes  |
-| **Security** | Secured SQL statements against injections using parameterized queries  |
-| **Impact** | Discovered an architectural many-to-many flaw in the database schema |
-| **Repository** | `https://github.com/mohamed-toukane/vivino-data-pipeline`  |
+| **Stack** | Python, PyTorch, Ultralytics YOLOv8, OpenCV, Flask  |
+| **Scale** | Continuous real-time monitoring across multiple industrial camera feeds  |
+| **Performance** | Multi-model inference pipeline (3 YOLO models) with configurable FPS and sub-second approval decision logic  |
+| **Security** | External badge-reader integration with state-machine access control logic  |
+| **Impact** | Eliminates manual safety checks, reducing verification time from minutes to seconds while enforcing consistent PPE compliance |
+| **Repository** | Private repository due to non-disclosure agreements with enterprise partner  |
 
 #### Technical Breakdown
-Constructed an end-to-end analytical data mapping layout processing a complex index of market properties. Audited the underlying architecture to locate a severe many-to-many relationship contradiction within the processing layers. Resolved the flaw by modeling a concrete normalized junction table, optimizing data layout logic, and securing total analytical data integrity.
+Developed the automated object detection and verification components of an enterprise-grade industrial safety pipeline. The engine runs three YOLOv8 models in parallel — a general 8-class PPE detector and two specialized models — processing live camera streams through OpenCV. Each frame is evaluated against class-specific confidence thresholds using a state-machine approval workflow that requires sustained detection across all required equipment (helmet, glasses, vest, gloves, boots) before activating external turnstile relay outputs via a Flask REST API layer.
 </details>
 
 ---
