@@ -180,13 +180,40 @@ Constructed an end-to-end analytical data mapping layout processing a complex in
 
 ## 14. Current Focus Section
 
-```yaml
-CurrentFocus:
-  TargetLearningPaths:
-    - Microsoft Azure AI Fundamentals (AI-900)
-    - Microsoft Power Platform Fundamentals (PL-900)
-  Methodologies:
-    - Vibe Coding Paradigm Exploitation
-    - Responsible Enterprise AI Governance
-  ArchitectureFocus:
-    - Robust Data Quality Enforcement
+### Target Learning Paths
+<img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals%20(AI--900)-7F287D?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure AI Fundamentals Track" /> <img src="https://img.shields.io/badge/Microsoft-Power%20Platform%20(PL--900)-5E249F?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Platform Track" />
+
+### Core Methodologies & Architecture
+<img src="https://img.shields.io/badge/Development-Vibe%20Coding%20Exploitation-4B0082?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Vibe Coding" /> <img src="https://img.shields.io/badge/Governance-AI%20Risk%20%26%20Compliance-6A0DAD?style=for-the-badge&logo=gitbook&logoColor=white" alt="AI Governance" /> <img src="https://img.shields.io/badge/Data%20Quality-Robust%20Enforcement-110022?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Quality" />
+
+---
+
+## 15. Connect Section
+
+<div align="center">
+  <a href="mailto:mohamed.toukane@hotmail.it">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Connect" />
+  </a>
+  <a href="https://linkedin.com/in/mohamed-toukane">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect" />
+  </a>
+  <a href="https://github.com/mohamed-toukane">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Connect" />
+  </a>
+</div>
+
+---
+
+## 16. Footer Section
+
+<div align="center">
+  <p>
+    <a href="https://github.com/mohamed-toukane">
+      <img src="https://text-to-image-api.vercel.app/api?text=SUCCESS%20IS%20NOT%20FINAL,%20FAILURE%20IS%20NOT%20FATAL,%20IT%20IS%20THE%20COURAGE%20TO%20CONTINUE%20THAT%20COUNTS.&bg=14141400&color=A965FF&glow=00000000&glowRadius=0&fontSize=16&fontFamily=Fira+Code" alt="Glow Quote" />
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/type=wave&color=gradient&customColorList=110022,330066,4B0082,6A0DAD&height=120&section=footer" alt="Footer Banner" />
+</div>
