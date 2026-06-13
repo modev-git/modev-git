@@ -29,16 +29,16 @@
 ## 2. About Section
 
 ### Professional Biography
-I am an analytical Data Intelligence Engineer bridging the gap between sophisticated technical pipelines and business operations[cite: 3, 4]. Transitioning from operations administration into data architecture, I specialize in engineering automated data extraction infrastructure, parsing complex schemas, and embedding large language models into enterprise workflows[cite: 2, 3, 4]. My background in linguistics and translation shapes a rigorous approach to data quality, governance, and structural validation[cite: 2, 4]. Equipped with native/fluent command across 6 regulatory and commercial languages (English C2, French C2, Italian Native, Arabic Native, Spanish C1, Dutch B2), I execute cross-functional system logic and communicate technical architectures effectively to diverse stakeholder layers[cite: 3, 4].
+I am an analytical Data Intelligence Engineer bridging the gap between sophisticated technical pipelines and business operations . Transitioning from operations administration into data architecture, I specialize in engineering automated data extraction infrastructure, parsing complex schemas, and embedding large language models into enterprise workflows[cite: 2, 3, 4]. My background in linguistics and translation shapes a rigorous approach to data quality, governance, and structural validation . Equipped with native/fluent command across 6 regulatory and commercial languages (English C2, French C2, Italian Native, Arabic Native, Spanish C1, Dutch B2), I execute cross-functional system logic and communicate technical architectures effectively to diverse stakeholder layers .
 
 ### Lifelong Learning Philosophy
-Continuous paradigm tracking drives my technical methodology[cite: 3]. I continuously evolve my software engineering practices by pursuing modern cloud competencies, enterprise-grade low-code ecosystems, and automated data monitoring architectures to ensure structural data integrity[cite: 3, 4].
+Continuous paradigm tracking drives my technical methodology[cite: 3]. I continuously evolve my software engineering practices by pursuing modern cloud competencies, enterprise-grade low-code ecosystems, and automated data monitoring architectures to ensure structural data integrity .
 
 ### AI/ML Expertise & Product Mindset
-My development architecture emphasizes production-ready scalability, prompt optimization, and targeted data extraction pipeline patterns[cite: 3, 4]. I build tools designed to solve functional real-world bottlenecks, optimizing for key operational metrics like execution throughput, precision limits, and human error mitigation[cite: 3, 4].
+My development architecture emphasizes production-ready scalability, prompt optimization, and targeted data extraction pipeline patterns . I build tools designed to solve functional real-world bottlenecks, optimizing for key operational metrics like execution throughput, precision limits, and human error mitigation .
 
 ### Open To Roles
-* Data Engineer / AI Integration Specialist[cite: 3, 4]
+* Data Engineer / AI Integration Specialist 
 * Functional Analyst / Solutions Engineer[cite: 4]
 * Technical Product Owner / Business Automation Consultant[cite: 4]
 
@@ -61,10 +61,10 @@ My development architecture emphasizes production-ready scalability, prompt opti
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **LLM Orchestration** | Advanced Integration | Prompt engineering, validation workflows, automated text classification, schema rendering via GPT models[cite: 2, 4]. |
-| **Data Mining & Scrapers**| Enterprise Scale | Real-time HTML extraction, parsing unstructured documents (PDFs, raw strings) to structured JSON[cite: 2, 3]. |
-| **Predictive Modeling** | Implementation & Evaluation | XGBoost regression configurations, pipeline data preprocessing, and model metric testing (precision, recall)[cite: 2, 3]. |
-| **Data Governance** | Architecture Diagnostics | Database design optimization, normalization, schema debugging, and structural validation[cite: 2, 4]. |
+| **LLM Orchestration** | Advanced Integration | Prompt engineering, validation workflows, automated text classification, schema rendering via GPT models . |
+| **Data Mining & Scrapers**| Enterprise Scale | Real-time HTML extraction, parsing unstructured documents (PDFs, raw strings) to structured JSON . |
+| **Predictive Modeling** | Implementation & Evaluation | XGBoost regression configurations, pipeline data preprocessing, and model metric testing (precision, recall) . |
+| **Data Governance** | Architecture Diagnostics | Database design optimization, normalization, schema debugging, and structural validation . |
 
 ---
 
@@ -77,15 +77,15 @@ My development architecture emphasizes production-ready scalability, prompt opti
 #### System Performance Matrix
 | Dimension | Specification / Metric |
 | :--- | :--- |
-| **Stack** | Python, Playwright, BeautifulSoup, DeepDiff, GPT-4o-mini API, Resend API[cite: 2, 3] |
-| **Scale** | Continuous daily validation of competitor banking fee architectures[cite: 3, 4] |
-| **Performance** | Automated diff engine targeting precise data modifications instantly[cite: 3, 4] |
+| **Stack** | Python, Playwright, BeautifulSoup, DeepDiff, GPT-4o-mini API, Resend API  |
+| **Scale** | Continuous daily validation of competitor banking fee architectures  |
+| **Performance** | Automated diff engine targeting precise data modifications instantly  |
 | **Security** | Secure prompt design parameters protecting model interaction inputs[cite: 4] |
-| **Impact** | Eliminates manual research loops, saving product teams 10+ hours per week[cite: 3, 4] |
-| **Repository** | `https://github.com/mohamed-toukane/bank-market-watcher`[cite: 2, 3] |
+| **Impact** | Eliminates manual research loops, saving product teams 10+ hours per week  |
+| **Repository** | `https://github.com/mohamed-toukane/bank-market-watcher`  |
 
 #### Technical Breakdown
-Developed the automated structural modification detection components of an enterprise-grade tracking pipeline[cite: 3, 4]. The engine extracts raw HTML patterns from dynamic target targets using Playwright and processes variations through DeepDiff[cite: 2, 3]. Integrated localized prompt routing using GPT-4o-mini to programmatically categorize, tag, and summarize textual modifications before transmitting immediate security and competitive updates across the Resend API layer[cite: 2, 3, 4].
+Developed the automated structural modification detection components of an enterprise-grade tracking pipeline . The engine extracts raw HTML patterns from dynamic target targets using Playwright and processes variations through DeepDiff . Integrated localized prompt routing using GPT-4o-mini to programmatically categorize, tag, and summarize textual modifications before transmitting immediate security and competitive updates across the Resend API layer[cite: 2, 3, 4].
 </details>
 
 <details>
@@ -95,15 +95,15 @@ Developed the automated structural modification detection components of an enter
 #### System Performance Matrix
 | Dimension | Specification / Metric |
 | :--- | :--- |
-| **Stack** | Python, Pandas, BeautifulSoup, XGBoost, Docker, FastAPI[cite: 3, 4] |
-| **Scale** | Distributed indexing and normalization across ~26,000 real estate properties[cite: 3, 4] |
-| **Performance** | Real-time inferencing with price values exposed over standardized JSON endpoints[cite: 3, 4] |
-| **Security** | Isolated containerized application layer via Docker deployment parameters[cite: 3, 4] |
-| **Impact** | Automates estimation matrices, saving field operators 5+ hours of manual analysis per asset[cite: 3, 4] |
-| **Repository** | `https://github.com/mohamed-toukane/immo-eliza-predictor`[cite: 2, 3] |
+| **Stack** | Python, Pandas, BeautifulSoup, XGBoost, Docker, FastAPI  |
+| **Scale** | Distributed indexing and normalization across ~26,000 real estate properties  |
+| **Performance** | Real-time inferencing with price values exposed over standardized JSON endpoints  |
+| **Security** | Isolated containerized application layer via Docker deployment parameters  |
+| **Impact** | Automates estimation matrices, saving field operators 5+ hours of manual analysis per asset  |
+| **Repository** | `https://github.com/mohamed-toukane/immo-eliza-predictor`  |
 
 #### Technical Breakdown
-Engineered a complete extraction, transformation, and load workflow to ingest and format raw real estate listings across national properties[cite: 3, 4]. Built an array of preprocessing steps to strip human calculation error and normalize incoming arrays[cite: 2, 3]. Optimized an XGBoost regression configuration to output objective evaluations, serving the model predictions via an accessible, performant FastAPI system[cite: 3, 4].
+Engineered a complete extraction, transformation, and load workflow to ingest and format raw real estate listings across national properties . Built an array of preprocessing steps to strip human calculation error and normalize incoming arrays . Optimized an XGBoost regression configuration to output objective evaluations, serving the model predictions via an accessible, performant FastAPI system .
 </details>
 
 <details>
@@ -113,15 +113,15 @@ Engineered a complete extraction, transformation, and load workflow to ingest an
 #### System Performance Matrix
 | Dimension | Specification / Metric |
 | :--- | :--- |
-| **Stack** | Python, SQL, SQLite, Pandas, Relational Schemas[cite: 2, 4] |
-| **Scale** | Parsing, cleaning, and validating 50,000+ customer records spanning 10+ geographic target layers[cite: 2, 4] |
+| **Stack** | Python, SQL, SQLite, Pandas, Relational Schemas  |
+| **Scale** | Parsing, cleaning, and validating 50,000+ customer records spanning 10+ geographic target layers  |
 | **Performance** | Database normalizations reducing payload redundancy across thousands of record profiles[cite: 1] |
 | **Security** | Parameterized SQL query layers safeguarding processing steps from runtime data injection anomalies[cite: 1] |
-| **Impact** | Re-engineered systemic architecture flaws to secure precise reporting data accuracy[cite: 1, 4] |
-| **Repository** | `https://github.com/mohamed-toukane/vivino-data-pipeline`[cite: 2, 3] |
+| **Impact** | Re-engineered systemic architecture flaws to secure precise reporting data accuracy  |
+| **Repository** | `https://github.com/mohamed-toukane/vivino-data-pipeline`  |
 
 #### Technical Breakdown
-Constructed an end-to-end analytical data mapping layout processing a complex index of market properties[cite: 2, 4]. Audited the underlying architecture to locate a severe many-to-many relationship contradiction within the processing layers[cite: 1, 4]. Resolved the flaw by modeling a concrete normalized junction table, optimizing data layout logic, and securing total analytical data integrity[cite: 1, 4].
+Constructed an end-to-end analytical data mapping layout processing a complex index of market properties . Audited the underlying architecture to locate a severe many-to-many relationship contradiction within the processing layers . Resolved the flaw by modeling a concrete normalized junction table, optimizing data layout logic, and securing total analytical data integrity .
 </details>
 
 ---
@@ -129,13 +129,13 @@ Constructed an end-to-end analytical data mapping layout processing a complex in
 ## 6. Experience Section
 
 ### Technical Administrative Assistant | Infrabel
-*02/2025 – 07/2025*[cite: 3, 4]
-* **Scope of Work:** Managed structural asset metrics and audited logistics inventory operations within enterprise SAP ERP systems, securing complete consistency and tracking resolution[cite: 3, 4]. Managed localized tracking data structures to ensure absolute compliance with technical standards, while driving technical operational collaboration between core engineering squads and external infrastructural contractors[cite: 4].
-* **Skill Tags:** `SAP ERP` `Data Quality Control` `Workflow Management` `Infrastructural Documentation`[cite: 3, 4]
+*02/2025 – 07/2025* 
+* **Scope of Work:** Managed structural asset metrics and audited logistics inventory operations within enterprise SAP ERP systems, securing complete consistency and tracking resolution . Managed localized tracking data structures to ensure absolute compliance with technical standards, while driving technical operational collaboration between core engineering squads and external infrastructural contractors[cite: 4].
+* **Skill Tags:** `SAP ERP` `Data Quality Control` `Workflow Management` `Infrastructural Documentation` 
 
 ### HR Assistant | Bruxelles Environnement
-*02/2023 – 02/2025*[cite: 3, 4]
-* **Scope of Work:** Programmed and administered candidate data configurations within corporate Applicant Tracking Systems (ATS), converting manual testing frameworks into optimized digital evaluation steps[cite: 4]. Handled data pipelines across daily high-volume information pools, maintaining clear technical process summaries and delivering precise multilingual communication to align core operational teams[cite: 3, 4].
+*02/2023 – 02/2025* 
+* **Scope of Work:** Programmed and administered candidate data configurations within corporate Applicant Tracking Systems (ATS), converting manual testing frameworks into optimized digital evaluation steps[cite: 4]. Handled data pipelines across daily high-volume information pools, maintaining clear technical process summaries and delivering precise multilingual communication to align core operational teams .
 * **Skill Tags:** `ATS Systems` `Data Auditing` `Cross-Functional Synchronization` `Technical Onboarding`[cite: 4]
 
 ---
@@ -147,7 +147,7 @@ Constructed an end-to-end analytical data mapping layout processing a complex in
 | Recognition | Details |
 | :--- | :--- |
 | **BeCode Industry Use-Case Sprint** | Successfully prototyped an automated market intelligence system evaluating real-time banking changes for stakeholders at ING Belgium[cite: 1]. |
-| **Linguistic Adaptability Milestone** | Built comprehensive cross-border communication architecture and resolved operational data gaps leveraging fluency across 6 distinct European and regional languages[cite: 3, 4]. |
+| **Linguistic Adaptability Milestone** | Built comprehensive cross-border communication architecture and resolved operational data gaps leveraging fluency across 6 distinct European and regional languages . |
 
 </div>
 
