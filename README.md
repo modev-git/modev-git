@@ -138,7 +138,7 @@ Constructed an end-to-end analytical data mapping layout processing a complex in
 
 ---
 
-## 7. Achievements Section
+<!-- ## 7. Achievements Section
 
 <div align="center">
 
@@ -176,6 +176,7 @@ Constructed an end-to-end analytical data mapping layout processing a complex in
 </div>
 
 ---
+--> 
 
 ## 14. Current Focus Section
 
