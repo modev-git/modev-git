@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/type=wave&color=gradient&customColorList=110022,330066,4B0082,6A0DAD&height=250&section=header&text=MOHAMED%20TOUKANE&fontSize=60&fontColor=ffffff&fontAlignY=45" alt="Header Banner" />
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A965FF&background=14141400&vCenter=true&width=600&lines=Data+Intelligence+Engineer;Automation+%26+Pipeline+Architect;Multilingual+Solutions+Specialist" alt="Typing SVG" />
